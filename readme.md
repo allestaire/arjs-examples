@@ -2,7 +2,8 @@
 
 ## Resources
 
-- (Exmaple)[https://github.com/AR-js-org/AR.js/tree/master/aframe/examples]
+- [Docs](https://github.com/AR-js-org/AR.js)
+- [Examples](https://github.com/AR-js-org/AR.js/tree/master/aframe/examples)
 
 ## Commands
 
